@@ -1,0 +1,9 @@
+html,
+body {
+  background-color: #978f8f !important; /* solid background */
+  background-image: none !important; /* no images */
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: auto;
+  color: #000; /* make sure text is readable */
+}
